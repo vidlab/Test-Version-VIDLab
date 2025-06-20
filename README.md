@@ -1,1 +1,1 @@
-# vision-intelligence-and-data-lab
+Vision Intelligence and Data Lab
